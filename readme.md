@@ -1,4 +1,4 @@
-# Inroduction
+# Introduction
 So, you decided to learn a new programming language! This is Great!
 
 Straggling to learn the basics of a new programming language might be difficult. Keeping a list of the basic tasks that you need to accomplish before moving to more advanced tasks might be helpful. This is what this list is about. 
@@ -7,6 +7,9 @@ Some notes:
 1. I tried to order tasks from easier to more difficult but this is subjective. So feel free to skip/move to the list as you please.
 2. Some languages may not support (or support indirectly) some of these tasks. Do not spent much time over-engineering a task. Most tasks should take no more than 5 lines of code (in most languages)
 3. This list is not about "learning programming" or how to think with algorithms. There are many great resources about this elsewhere. This list is only about keeping track of learning how to do the absolute basics in a new programming language. Being confindent on doing these tasks can help you move forward.
+4. This list is not complete! Merge Requests are welcome!
+
+# The list
 
 ### Generic
 1. Print: "Hello World!"
@@ -16,11 +19,11 @@ Some notes:
 5. Create a function with any name you like, without any argument, that always prints "42" and it does not return anything
 6. Create a function with any name you like, without any argument, that always returns 42.
 7. Call the functions that you created in steps 5 and 6
-8. Create a function that takes one integer as an argument and returns the value of this argument incremented by on. 
+8. Create a function that takes one integer as an argument and returns the value of this argument incremented by one. 
 9. Call this function.
 10. Create a function that contains a nested function.
+11. Create a function that has two arguments. The second is optional and has a default value of 1. It returns the value of these two arguments. 
 11. Write a comment anywhere in your code. 
-12. Read a command-line option
 
 
 ### Numbers
@@ -172,6 +175,7 @@ Create a function to:
 10. Find the sum of first n primes
 
 ### System
-1. Read input from the keyboard
-2. Execute a system command
-3. Print the current working directory
+1. Read a command-line option
+2. Read input from the keyboard
+3. Execute a system command
+4. Print the current working directory
