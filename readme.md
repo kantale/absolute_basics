@@ -183,6 +183,6 @@ Create a function to:
 
 # Moving forward
 * [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code)
-* [Advent of code][http://adventofcode.com/]
+* [Advent of code](http://adventofcode.com)
 
 
