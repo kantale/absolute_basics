@@ -9,6 +9,7 @@ Some notes:
 3. This list is not about "learning programming" or how to think with algorithms. There are many great resources about this elsewhere. This list is only about keeping track of learning how to do the absolute basics in a new programming language. Being confindent on doing these tasks can help you move forward.
 4. This list is not complete! Merge Requests are welcome!
 
+
 # The list
 
 ### Generic
@@ -179,3 +180,9 @@ Create a function to:
 2. Read input from the keyboard
 3. Execute a system command
 4. Print the current working directory
+
+# Moving forward
+* [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code)
+* [Advent of code][http://adventofcode.com/]
+
+
