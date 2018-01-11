@@ -184,5 +184,5 @@ Create a function to:
 # Moving forward
 * [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code)
 * [Advent of code](http://adventofcode.com)
-
+* [Exercism](http://www.exercism.io/languages)
 
